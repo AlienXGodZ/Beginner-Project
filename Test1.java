@@ -147,7 +147,7 @@ class studentmanagementproject{
 }
 
 
-public class Test94{
+public class Test1{
     public static void main(String[] args){
 
         studentmanagementproject s = new studentmanagementproject();
